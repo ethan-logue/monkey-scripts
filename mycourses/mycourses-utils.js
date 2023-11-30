@@ -5,6 +5,7 @@
 // @author       Ethan Logue
 // @version      1.1
 // @match        https://mycourses.rit.edu/*
+// @exclude      https://mycourses.rit.edu/d2l/lms/dropbox/*
 // @icon         https://mycourses.rit.edu/d2l/lp/web/faviconView?variant=0&version=1
 // @grant        none
 // ==/UserScript==
