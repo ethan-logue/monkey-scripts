@@ -4,6 +4,7 @@
 // @description  Quality of life improvements for RIT MyCourses
 // @author       Ethan Logue
 // @version      1.1
+// @match        https://mycourses.rit.edu/d2l/home
 // @match        https://mycourses.rit.edu/d2l/home/*
 // @exclude      https://mycourses.rit.edu/d2l/lms/dropbox/*
 // @icon         https://mycourses.rit.edu/d2l/lp/web/faviconView?variant=0&version=1
